@@ -11,13 +11,14 @@ tags = [
 +++
 
 ## What I do?
-- I like to code!!
-- I like Python
-- I like Rust
-- I like DevOps
-- I like simulations
-- I like to share knowledge
-- I like to tech people
+- I like to code 👨‍💻♑ 🐧
+- I like Python 🐍
+- I like Rust 🦀
+- I like DevOps ♻️
+- I like Cloud ☁
+- I like simulations 💻
+- I like to share knowledge 💡
+- I like to teach people 📝
 ```python
-print("Stay blessed, keep coding!")
+print("Stay blessed, keep coding!👨‍💻👩‍💻!")
 ```
