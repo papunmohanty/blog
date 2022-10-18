@@ -6,20 +6,20 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Papun Mohanty"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# Hi 👋, I'm Papun Mohanty
+### A passionate fullstack developer from India
+![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-Hugo makes use of a variety of open source projects including:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=papunmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="papunmohanty" /> </p>
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- 🔭 I’m currently working on **Reusable Micro Services**
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+- 🌱 I’m currently learning **Rust, React Native**
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- 📝 I started writing articles on [https://papunmohanty.github.io/](https://papunmohanty.github.io/) recently
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+- 💬 Ask me about **Python, DevOps, Linux, Cloud**
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- 📫 How to reach me **reachtopmohanty@gmail.com**
+
+- ⚡ Fun fact **I teach with fun**
