@@ -20,4 +20,10 @@ g commit -am"Add: new gif image"
 g push
 ```
 
-## Also comit new changes in blog 
+## Also comit new changes in blog
+```sh
+cd ../..
+g add .
+g commit -am"Add: new gif image"
+g push
+```
