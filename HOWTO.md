@@ -2,7 +2,7 @@
 ```sh
 cd blog/myblog/
 
-# modifu contents, and check the working website
+# modify contents, and check the working website with the command
 hugo server
 ```
 
